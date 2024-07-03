@@ -24,3 +24,33 @@ This repository contains the submission for the Linear Regression Assignment, fo
    ```sh
    git clone https://github.com/your-username/linear-regression-assignment.git
    cd linear-regression-assignment
+
+2.	**Open the Jupyter Notebook:**
+Open notebook.ipynb using Jupyter Notebook or JupyterLab to explore the analysis and results.
+
+3.	**View the PDF:**
+Open subjective_questions.pdf to read the answers to the subjective questions.
+
+## Project Description
+
+### Business Goal
+
+BoomBikes, a US-based bike-sharing provider, aims to understand the factors affecting the demand for shared bikes to optimize operations and marketing strategies in the post-COVID-19 market.
+
+### Dataset
+
+The dataset contains daily bike rental data with features such as temperature, humidity, wind speed, season, and weather situation. The target variable is the total count of bike rentals (cnt).
+
+#### Methodology
+
+	•	Data Cleaning and Preparation: Handling missing values and encoding categorical variables.
+	•	EDA: Using visualizations like box plots, histograms, and time series plots.
+	•	Feature Engineering: Creating dummy variables and transforming features.
+	•	Model Building and Evaluation: Constructing a multiple linear regression model and evaluating it using R-squared and other metrics.
+
+#### Contact
+
+For further information, contact:
+
+	•	Siddharth Shankar
+	•	Email: siddharthmailbox85@gmail.com
